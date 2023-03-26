@@ -1,9 +1,9 @@
 # TUGAS Lab3 PHP Database Pemograman Web 2
 
-## Nama : Zaini Muhtarom
-## NIM  : 312110294
-## Kelas    : TI . 21 . A3
-## Mata Kuliah  : Pemograman Web 2
+Nama : Zaini Muhtarom
+NIM  : 312110294
+Kelas    : TI . 21 . A3
+Mata Kuliah  : Pemograman Web 2
 
 ### **hasil file connection.php**
 
